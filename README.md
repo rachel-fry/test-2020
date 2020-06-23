@@ -2,4 +2,4 @@
 
 [CIERA Homepage](https://ciera.northwestern.edu/)
 
-*BAD TEXT*
+I like this text. This tutorial is great!
